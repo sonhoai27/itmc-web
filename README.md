@@ -1,1 +1,1 @@
-## Các bạn truy cập vào trang này https://sonhoai27.github.io/itmc-web/ để xem và tải tài liệu + video
+## Các bạn vào thư mục docs để xem và tải #project #tài liệu + #video nhen.
