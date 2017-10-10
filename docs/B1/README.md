@@ -32,7 +32,7 @@ Dưới đây là một ví dụ cơ bản về cấu trúc cơ bản của mộ
 Project gồm 3 phần:
 - > file index.html
 - > thư mục style
-    - thư mục js (chứa các file javascript)
-    - thư mục css (chứa các file css)
-    - thư mục font (chứa các font, font-icon)
+    - > thư mục js (chứa các file javascript)
+    - > thư mục css (chứa các file css)
+    - > thư mục font (chứa các font, font-icon)
 - > thư mục chứa hình
