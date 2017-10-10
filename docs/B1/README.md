@@ -152,7 +152,8 @@ Ví dụ về `<table>`
 
 - `<tr>`: là dòng.
 - `<td>`: là cột.
-- `<rowspan>`: gộp dòng.
+
+- `<rowspan>`: ### gộp dòng.
 
 Ví dụ:
 ```html
@@ -187,7 +188,7 @@ Ví dụ:
 </table>
 
 
-- `<colspan>`: gộp cột.
+- `<colspan>`: ### gộp cột.
 
 Ví dụ:
 ```html
