@@ -153,4 +153,70 @@ Ví dụ về `<table>`
 - `<tr>`: là dòng.
 - `<td>`: là cột.
 - `<rowspan>`: gộp dòng.
+
+Ví dụ:
+```html
+<table border="1" space>
+    <tr>
+        <td rowspan="2">A</td>
+        <td>B</td>
+        <td>C</td>
+        <td>C</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+    </tr>
+</table>
+```
+
+
+<table border="1" space>
+    <tr>
+        <td rowspan="2">A</td>
+        <td>B</td>
+        <td>C</td>
+        <td>C</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+    </tr>
+</table>
+
+
 - `<colspan>`: gộp cột.
+
+Ví dụ:
+```html
+<table border="1" space>
+    <tr>
+        <td colspan="2">A</td>
+        <td>C</td>
+        <td>C</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+    </tr>
+</table>
+```
+
+
+<table border="1" space>
+    <tr>
+        <td colspan="2">A</td>
+        <td>C</td>
+        <td>C</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+    </tr>
+</table>
