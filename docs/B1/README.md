@@ -8,7 +8,5 @@
 -	Link code  + preview: codepen.io
 -	Video của buổi học sẽ up vào cuối buổi trên Youtube.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## 1.Project HTML
+
