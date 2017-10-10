@@ -72,16 +72,29 @@ Có 2 loại `list` chính, thường sử dụng:
 </ol>
 
 ### Custom type-style
-- Với `<ul>'
-    <ul type="circle">
-        <li>A</li>
-        <li>B</li>
-        <li>C</li>
-    </ul>
+- Với `<ul>`
+```html
+<ul type="circle">
+    <li>A</li>
+    <li>B</li>
+    <li>C</li>
+</ul>
+```
+<ul type="circle">
+    <li>A</li>
+    <li>B</li>
+    <li>C</li>
+</ul>
 
 - với `<ol>`
-    
- <ol type="a">
+```html
+<ol type="a">
+    <li>A</li>
+    <li>B</li>
+    <li>C</li>
+</ol>
+```
+<ol type="a">
     <li>A</li>
     <li>B</li>
     <li>C</li>
