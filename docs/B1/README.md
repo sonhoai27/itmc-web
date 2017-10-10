@@ -152,5 +152,5 @@ Ví dụ về `<table>`
 
 - `<tr>`: là dòng.
 - `<td>`: là cột.
-- `<rowspan>`.
-- `<colspan>`.
+- `<rowspan>`: gộp dòng.
+- `<colspan>`: gộp cột.
