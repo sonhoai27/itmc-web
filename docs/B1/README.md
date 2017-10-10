@@ -70,3 +70,20 @@ Có 2 loại `list` chính, thường sử dụng:
     <li>B</li>
     <li>C</li>
 </ol>
+
+### Custom type-style
+- Với `<ul>'
+    <ul type="circle">
+        <li>A</li>
+        <li>B</li>
+        <li>C</li>
+    </ul>
+
+- với `<ol>`
+    
+ <ol type="a">
+    <li>A</li>
+    <li>B</li>
+    <li>C</li>
+</ol>   
+    
