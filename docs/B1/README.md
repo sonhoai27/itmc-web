@@ -51,6 +51,12 @@ Có 2 loại `list` chính, thường sử dụng:
     <li>C</li>
 </ul>
 ```
+<ul>
+    <li>A</li>
+    <li>B</li>
+    <li>C</li>
+</ul>
+
 ### Ví dụ về `<ol>`:
 ```html
     <ol>
