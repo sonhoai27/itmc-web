@@ -42,3 +42,25 @@ Project gồm 3 phần:
 Có 2 loại `list` chính, thường sử dụng:
 - `<ul>` - dạng danh sách không theo thứ tự như là A, B, C hay 1, 2, 3
 - `<ol>` - dạng danh sách có theo thứ tự như là A, B, C hay 1, 2, 3
+
+### Ví dụ về `<li>`:
+```html
+<ul>
+    <li>A</li>
+    <li>B</li>
+    <li>C</li>
+</ul>
+```
+### Ví dụ về `<ol>`:
+```html
+    <ol>
+        <li>A</li>
+        <li>B</li>
+        <li>C</li>
+    </ol>
+```
+<ol>
+    <li>A</li>
+    <li>B</li>
+    <li>C</li>
+</ol>
