@@ -11,7 +11,7 @@
 ## 1.Cấu trúc file html
 
 Dưới đây là một ví dụ cơ bản về cấu trúc cơ bản của một html
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
