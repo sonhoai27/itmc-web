@@ -156,7 +156,7 @@ Ví dụ về `<table>`
 
 Ví dụ:
 ```html
-<table border="1" style="width:100%">
+<table style="width:100%">
     <tr>
         <td rowspan="2">A</td>
         <td>B</td>
@@ -172,7 +172,7 @@ Ví dụ:
 ```
 
 
-<table border="1" style="width:100%">
+<table style="width:100%">
     <tr>
         <td rowspan="2">A</td>
         <td>B</td>
@@ -191,7 +191,7 @@ Ví dụ:
 
 Ví dụ:
 ```html
-<table border="1" style="width:100%">
+<table style="width:100%">
     <tr>
         <td colspan="2">A</td>
         <td>C</td>
@@ -207,7 +207,7 @@ Ví dụ:
 ```
 
 
-<table border="1" style="width:100%">
+<table style="width:100%">
     <tr>
         <td colspan="2">A</td>
         <td>C</td>
