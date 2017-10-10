@@ -25,8 +25,8 @@ Dưới đây là một ví dụ cơ bản về cấu trúc cơ bản của mộ
 </body>
 </html>
 ```
-- <head></head>: thêm title, link css, javascript, meta...
-- <body></body>: nơi đặt các thẻ html, định dạng style cũng là nơi đặt javascript
+- `<head></head>`: thêm title, link css, javascript, meta...
+- `<body></body>`: nơi đặt các thẻ html, định dạng style cũng là nơi đặt javascript
 
 ## 2. Tạo một project web cơ bản
 Project gồm 3 phần:
