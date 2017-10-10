@@ -149,7 +149,8 @@ Ví dụ về `<table>`
     <td>80</td>
   </tr>
 </table>
-- `<tr>`: là dòng
-- `<td>`: là cột
-- gom dòng: `rowspan`.
-- gom cột: `colspan`.
+
+- `<tr>`: là dòng.
+- `<td>`: là cột.
+- `<rowspan>`.
+- `<colspan>`.
