@@ -36,3 +36,9 @@ Project gồm 3 phần:
     - > thư mục css (chứa các file css)
     - > thư mục font (chứa các font, font-icon)
 - > thư mục chứa hình
+## 3. List
+
+`List` dùng để tạo ra các danh sách, dùng để tạo ra các menu...
+Có 2 loại `list` chính, thường sử dụng:
+- `<ul>` - dạng danh sách không theo thứ tự như là A, B, C hay 1, 2, 3
+- `<ol>` - dạng danh sách có theo thứ tự như là A, B, C hay 1, 2, 3
