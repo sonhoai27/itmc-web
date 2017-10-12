@@ -268,19 +268,17 @@ Ví dụ:
                 <th>Row 1a</th>
                 <td>123</td>
                 <td>456</td>
-                <td>789</td>
+                <td rowspan="3">789</td>
             </tr>
             <tr>
                 <th>Row 1b</th>
                 <td>123</td>
                 <td>456</td>
-                <td>789</td>
             </tr>
             <tr>
                 <th colspan="2">Row 2</th>
                 <td>123</td>
                 <td>456</td>
-                <td>789</td>
             </tr>
         </tbody>
     </table>
