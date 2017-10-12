@@ -8,6 +8,7 @@
 -	Link code  + preview: codepen.io
 -	Video của buổi học sẽ up vào cuối buổi trên Youtube.
 
+## Công cụ: Sử dụng công cụ Developer Tools - DEV Tools của Chrome hay CocCoc.
 ## 1.Cấu trúc file html
 
 Dưới đây là một ví dụ cơ bản về cấu trúc cơ bản của một html
