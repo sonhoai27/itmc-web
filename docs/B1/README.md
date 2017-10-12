@@ -267,7 +267,12 @@ Ví dụ:
         <th>Row 1a</th>
         <td>123</td>
         <td>456</td>
-        <td rowspan="3">789</td>
+        <td rowspan="3">
+            <ul>
+                <li>189</li>
+                <li>190</li>
+            </ul>
+        </td>
     </tr>
     <tr>
         <th>Row 1b</th>
