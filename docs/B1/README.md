@@ -99,7 +99,13 @@ Có 2 loại `list` chính, thường sử dụng:
     <li>B</li>
     <li>C</li>
 </ol>   
-    
+> Một số thẻ html có thể dùng trong `<li>`:
+    - `<a>`: đường dẫn, liên kết, `<target>`.
+    - `<span>` và `<p>`: phân biệt.
+    - Các thẻ `<h*>`.
+    - `<iframe>`
+### Bài tập: Dùng `<iframe>` và `<a>` để tạo một liên kết tới một trang khác trong cùng một cửa sổ mà không phải chạy, load tới trang có địa chỉ gì đó.
+
 ## 3. Table
 Ví dụ về `<table>`
 
