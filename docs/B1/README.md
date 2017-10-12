@@ -281,4 +281,4 @@ Ví dụ:
     </tr>
 </table>
 
-# Bài tập về nhà, sử dụng `<table>` để làm một trang giới thiệu về bản thân.
+# Bài tập về nhà, sử dụng `<table>`, và những gì đã học để làm một trang giới thiệu về bản thân.
