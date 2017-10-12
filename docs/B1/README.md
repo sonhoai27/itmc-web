@@ -106,7 +106,26 @@ Có 2 loại `list` chính, thường sử dụng:
     - Các thẻ `<h>`.
     - `<iframe>`.
     
-#### Bài tập: Dùng `<ul>`, `<li>`, `<iframe>` và `<a>` để tạo một liên kết tới một trang khác trong cùng một cửa sổ mà không phải chạy, load tới trang có địa chỉ gì đó.
+#### Bài tập 1: Dùng `<ul>`, `<li>`, `<iframe>` và `<a>` để tạo một liên kết tới một trang khác trong cùng một cửa sổ mà không phải chạy, load tới trang có địa chỉ gì đó.
+#### Bài tập 2: Sử dụng `list` để làm bài sau:
+<ul>
+    <li>A
+        <ol type="I">
+            <li>1</li>
+            <li>2</li>
+            <li>
+                <ul>
+                    <li>AA</li>
+                    <li>BB</li>
+                </ul>
+            </li>
+        </ol>
+    </li>
+    <li>B</li>
+    <li>C</li>
+</ul>
+
+
 
 ## 3. Table
 Ví dụ về `<table>`
