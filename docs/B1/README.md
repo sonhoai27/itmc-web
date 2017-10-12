@@ -248,6 +248,8 @@ Ví dụ:
         <td>4</td>
     </tr>
 </table>
+
+
 #### Bài tập 3: làm như hình sau:
 
 <table>
@@ -278,3 +280,5 @@ Ví dụ:
         <td>456</td>
     </tr>
 </table>
+
+# Bài tập về nhà, sử dụng `<table>` để làm một trang giới thiệu về bản thân.
