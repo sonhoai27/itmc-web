@@ -113,7 +113,7 @@ Có 2 loại `list` chính, thường sử dụng:
         <ol type="I">
             <li>1</li>
             <li>2</li>
-            <li>
+            <li>3
                 <ul>
                     <li>AA</li>
                     <li>BB</li>
