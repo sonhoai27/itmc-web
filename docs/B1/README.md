@@ -30,12 +30,12 @@ Dưới đây là một ví dụ cơ bản về cấu trúc cơ bản của mộ
 
 ## 2. Tạo một project web cơ bản
 Project gồm 3 phần:
-- > file index.html
-- > thư mục style
+- > Các file .html
+- > Thư mục style
     - > thư mục js (chứa các file javascript)
     - > thư mục css (chứa các file css)
     - > thư mục font (chứa các font, font-icon)
-- > thư mục chứa hình
+- > Thư mục chứa hình
 ## 3. List
 
 `List` dùng để tạo ra các danh sách, dùng để tạo ra các menu...
