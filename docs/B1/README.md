@@ -106,7 +106,7 @@ Có 2 loại `list` chính, thường sử dụng:
     - Các thẻ `<h>`.
     - `<iframe>`.
     
-### Bài tập: Dùng `<iframe>` và `<a>` để tạo một liên kết tới một trang khác trong cùng một cửa sổ mà không phải chạy, load tới trang có địa chỉ gì đó.
+#### Bài tập: Dùng `<ul>`, `<li>`, `<iframe>` và `<a>` để tạo một liên kết tới một trang khác trong cùng một cửa sổ mà không phải chạy, load tới trang có địa chỉ gì đó.
 
 ## 3. Table
 Ví dụ về `<table>`
