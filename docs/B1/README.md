@@ -127,6 +127,26 @@ Có 2 loại `list` chính, thường sử dụng:
     <li>C</li>
 </ul>
 
+#### Bài làm bài tập trên:
+
+```html
+<ul>
+    <li>A
+        <ol type="I">
+            <li>1</li>
+            <li>2</li>
+            <li>3
+                <ul>
+                    <li>AA</li>
+                    <li>BB</li>
+                </ul>
+            </li>
+        </ol>
+    </li>
+    <li>B</li>
+    <li>C</li>
+</ul>
+```
 
 
 ## 3. Table
@@ -289,8 +309,8 @@ Ví dụ:
 </table>
 
 #### Bài làm bài tập trên:
-`html
-```
+
+```html
 <table>
     <tr>
         <th colspan="2" rowspan="2">Column 0</th>
@@ -326,6 +346,29 @@ Ví dụ:
 </table>
 ```
 ### Bài tập `<table>` trên lớp:
-
-
+<table>
+    <tr>
+        <td colspan="2"></td>
+        <td ></td>
+        <td rowspan="2"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan="2"></td>
+    </tr>
+</table>
+#### Bài làm bài tập trên:
+```html
+<table>
+    <tr>
+        <td colspan="2"></td>
+        <td ></td>
+        <td rowspan="2"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan="2"></td>
+    </tr>
+</table>
+```
 # Bài tập về nhà, sử dụng `<table>`, và những gì đã học để làm một trang giới thiệu về bản thân.
