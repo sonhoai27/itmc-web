@@ -20,9 +20,9 @@ Hình minh họa
 <img src="https://thachpham.com/wp-content/uploads/2015/04/html-div-sample.png">
 <br>
 - Phân biệt `class` và `id`.
-  + id được ưu tiên hơn class
+  + id được ưu tiên hơn class.
   + trong class có thể đặt được, chứa nhiều tên class, id thì chỉ được chứa 1 tên.
-  + class, id được đặt trong thẻ `<div>`.
+  + class, id được đặt trong thẻ DIV.
   Ví dụ
   
 ```html
@@ -33,3 +33,8 @@ Hình minh họa
   
 </div>
 ```
+### Bài tập phân biệt độ ưu tiên giữa id và class.
+  - Nói về các các cách chèn css.
+  - Định dạng màu chữ, kích thước.
+  - border và các con của border: border-radius, border-width, border-color.
+  - Nói padding và margin, sử dụng border để ví dụ.
