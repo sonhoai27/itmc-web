@@ -288,4 +288,44 @@ Ví dụ:
     </tr>
 </table>
 
+#### Bài làm bài tập trên:
+`html
+```
+<table>
+    <tr>
+        <th colspan="2" rowspan="2">Column 0</th>
+        <th rowspan="2">Column 1</th>
+        <th colspan="2">Column 2</th>
+    </tr>
+    <tr>
+        <th>Column 2a</th>
+        <th>Column 2b</th>
+    </tr>
+    <tr>
+        <th rowspan="2">Row 1</th>
+        <th>Row 1a</th>
+        <td>123</td>
+        <td>456</td>
+        <td rowspan="3">
+            <ul>
+                <li>189</li>
+                <li>190</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <th>Row 1b</th>
+        <td>123</td>
+        <td>456</td>
+    </tr>
+    <tr>
+        <th colspan="2">Row 2</th>
+        <td>123</td>
+        <td>456</td>
+    </tr>
+</table>
+```
+### Bài tập `<table>` trên lớp:
+
+
 # Bài tập về nhà, sử dụng `<table>`, và những gì đã học để làm một trang giới thiệu về bản thân.
