@@ -24,7 +24,12 @@ Hình minh họa
   + trong class có thể đặt được, chứa nhiều tên class, id thì chỉ được chứa 1 tên.
   + class, id được đặt trong thẻ `<div>`.
   Ví dụ
-  ```html
-<div class="menu top-menu"></div>
-<div class="menu"></div>
+  
+```html
+<div class="menu top-menu">
+  
+</div>
+<div class="menu">
+  
+</div>
 ```
