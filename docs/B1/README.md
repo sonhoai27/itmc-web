@@ -348,15 +348,16 @@ Ví dụ:
 ### Bài tập `<table>` trên lớp:
 <table>
     <tr>
-        <td colspan="2"></td>
-        <td ></td>
-        <td rowspan="2"></td>
+        <td colspan="2">A</td>
+        <td >A</td>
+        <td rowspan="2">A</td>
     </tr>
     <tr>
-        <td></td>
-        <td colspan="2"></td>
+        <td>A</td>
+        <td colspan="2">A</td>
     </tr>
 </table>
+
 #### Bài làm bài tập trên:
 
 ```html
