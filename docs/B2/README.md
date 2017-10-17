@@ -15,6 +15,16 @@
 ## DIV
 - Dịch là "Khu", được sử dụng để tạo ra một khu vực nào đó trong website ở dụng Block. Gom nhóm các thành phần nhỏ lại tạo thành  một thành phần lớn.
 - Ví dụ Khu vực sidebar bên phải của website, những thành phần như ô tìm kiếm, bài viết mới... được đặt, gom nhóm lại trong thẻ `<div>`.
+<br>
 Hình minh họa
 <img src="https://thachpham.com/wp-content/uploads/2015/04/html-div-sample.png">
-- 
+<br>
+- Phân biệt `class` và `id`.
+  + id được ưu tiên hơn class
+  + trong class có thể đặt được, chứa nhiều tên class, id thì chỉ được chứa 1 tên.
+  + class, id được đặt trong thẻ `<div>`.
+  Ví dụ
+  ```html
+<div class="menu top-menu"></div>
+<div class="menu"></div>
+```
