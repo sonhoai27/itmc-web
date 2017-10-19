@@ -19,6 +19,8 @@
 Hình minh họa
 <img src="https://thachpham.com/wp-content/uploads/2015/04/html-div-sample.png">
 <br>
+
+## ID VÀ CLASS
 - Phân biệt `class` và `id`.
   + id được ưu tiên hơn class.
   + trong class có thể đặt được, chứa nhiều tên class, id thì chỉ được chứa 1 tên.
@@ -38,3 +40,21 @@ Hình minh họa
   - Định dạng màu chữ, kích thước.
   - border và các con của border: border-radius, border-width, border-color.
   - Nói padding và margin, sử dụng border để ví dụ.
+## DISPLAY
+- Các Giá trị thông dụng của display
+- Block, Flex, Inline-block
+- Ví dụ: làm một menu dọc + css....
+- Ví dụ menu ngang + css
+
+### Flex: có thể dùng để chia layout, dùng để canh chỉnh một phần tử....
+- Ví dụ về sử dụng flex để canh chỉnh
+- Muốn sử dụng flex, thì phải có <b>height</b>
+- Các dạng flexbox...
+- justify-content
+- align-items
+
+## POSITION
+- Fixed, relative, absolute
+- Ví dụ về 3 cái trên
+- Làm một bài tập chèn chữ lên hình - z-index.
+- Muốn sử dụng z-index thì phải có position: relative.
