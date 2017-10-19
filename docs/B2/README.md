@@ -58,3 +58,4 @@ Hình minh họa
 - Ví dụ về 3 cái trên
 - Làm một bài tập chèn chữ lên hình - z-index.
 - Muốn sử dụng z-index thì phải có position: relative.
+## HOVER
