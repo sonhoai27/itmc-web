@@ -1,4 +1,4 @@
-# Buổi 2: CSS
+# Buổi 2: CSS - Lý thuyết - Bài tập làm trên máy.
 
 ### Học các phần sau:
 - `<div>`.
